@@ -1,0 +1,39 @@
+.card1 {
+    background-image: url(https://i.pinimg.com/564x/14/45/62/144562e2ebd89f3eee4a2d294f8802fa.jpg);
+    background-size: cover;
+}
+.h-main{
+    height: 100vh !important;
+}
+.scrollspy{
+    height: 100vh !important;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.card-footer button {
+    float: right;
+    color: #f5ba13;
+    border: none;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    outline: none;
+}
+.textare{
+    height: 100px;  
+}
+form.create-note button {
+    position: absolute;
+    right: 30px;
+    top: 260px;
+    background: #f5ba13;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    outline: none;
+}
+  
